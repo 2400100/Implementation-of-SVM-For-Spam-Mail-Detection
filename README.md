@@ -25,11 +25,6 @@ RegisterNumber: 212224040332
 
 ```
 ```
-Program to implement the SVM For Spam Mail Detection.
-Developed by: KABELAN G K
-RegisterNumber: 24900985
-```
-```
 import chardet
 file='spam.csv'
 with open(file, 'rb') as rawdata:
